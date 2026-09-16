@@ -1,0 +1,13 @@
+# Google Workspace Admin SDK
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.126.0
+
+# Terminal UI
+rich==13.7.1
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Clipboard support (optional — graceful fallback if missing)
+pyperclip==1.8.2
